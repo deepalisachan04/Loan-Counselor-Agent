@@ -1,5 +1,4 @@
-# Loan-Counselor-Agent
-An AI Agent for Loan Counseling for further abroad studies.# Loan Counselor Agent
+# Loan Counselor Agent
 
 An AI‑powered assistant that helps students and professionals navigate the complex process of applying for education loans to study abroad.  The agent asks about your target country, course, financial situation and preferences, then suggests suitable loan programs, explains eligibility criteria and breaks down interest rates and repayment plans.
 
